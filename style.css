@@ -1,0 +1,33 @@
+
+img{
+    width: 150px;
+}
+h3{
+    margin-top: 50px;
+}
+.cart1{
+  width: 550px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+.cart2{
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+
+  }
+  .cart3{
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+  }
+button{
+    height: 40px;
+    margin-top: 50px;
+
+}
+p{
+    margin-top: 60px;
+}
